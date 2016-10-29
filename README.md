@@ -7,12 +7,6 @@ Website
 ------
 [Click here to use the application](TODO)
 
-Running Locally
----------------
-```sh
-TODO
-```
-
 Screenshot
 ----------
 ![](static/images/one2.png)
