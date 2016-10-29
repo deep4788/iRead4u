@@ -1,0 +1,18 @@
+{
+    "name": "iRead4u",
+    "description": "Reads and speaks the currently highlighted text on the screen",
+    "version": "1.0.0",
+    "permissions": [
+        "activeTab"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ],
+        "persistent": false
+    },
+    "browser_action": {
+        "default_title": "Read Highlighted Text"
+    },
+    "manifest_version": 2
+}
