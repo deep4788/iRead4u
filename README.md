@@ -1,15 +1,22 @@
 iRead4u
 =======
 
-A Google Chrome extension that reads any text highlighted by you.
+A Google Chrome extension that reads (text-to-speech) any text highlighted by you.
 
-Website
-------
-[Click here to use the application](TODO)
+Either with **[Alt+Shift+S]** or by **clicking on the extension's icon**
 
-Screenshot
-----------
-![](static/images/one2.png)
+Download
+--------
+Download it on Google Chrome from [Webstore](https://chrome.google.com/webstore/detail/iread4u/pkmbaacpdcnaaeeddokcpdahdokceppb)
+
+Getting Started
+---------------
+Within Google Chrome go to:
+
+- chrome://extensions
+- Enable Developer Mode
+- Load unpacked extensions
+- Test
 
 Author
 ------
