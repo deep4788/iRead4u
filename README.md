@@ -18,6 +18,10 @@ Within Google Chrome go to:
 - Load unpacked extensions
 - Test
 
+Screenshot
+----------
+![](images/appImage2.png)
+
 Author
 ------
 Deep Aggarwal  
